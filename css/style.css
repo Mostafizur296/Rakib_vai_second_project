@@ -1,0 +1,105 @@
+.bigbox{
+    width: 1000px;
+    height: 350px;
+    background-color: antiquewhite;
+    border: 0px solid royalblue;
+    text-align: center;
+    margin: 60px 100px;
+    position: relative;
+    padding: 50px;
+}
+.box1{
+    height: 80px;
+    width: 50%;
+    border: 0px solid red;
+    background-color: blue;
+    float: left;
+}
+.box2{
+    height: 200px;
+    width: 20%;
+    border: 0px solid red;
+    background-color: #00ff00;
+    float: left;
+}
+.box3{
+    height: 80px;
+    width: 30%;
+    border: 0px solid rgb(153, 73, 73);
+    background-color: rgb(39, 39, 131);
+    float: left;
+}
+.box4{
+    height: 120px;
+    width: 15%;
+    border: 0px solid red;
+    background-color: rgb(177, 47, 53);
+    margin: auto;
+    float: left;
+}
+.box5{
+    height: 120px;
+    width: 15%;
+    border: 0px solid red;
+    background-color: rgb(216, 19, 173);
+    margin: auto;
+    float: left;
+}
+.box6{
+    height: 120px;
+    width: 25%;
+    border: 0px solid red;
+    background-color: #d8ba13;
+    float: left;
+    position: relative;
+    bottom: 120px;
+}
+.box7{
+    height: 120px;
+    width: 25%;
+    border: 0px solid red;
+    background-color: #13bad8;
+    position: relative;
+    top: 80px;
+    left: 250px;
+}
+.box8{
+    height: 80px;
+    width: 25%;
+    border: 0px solid red;
+    background-color: rgb(49, 22, 94);
+    position: relative;
+    top: 80px;
+}
+.box9{
+    height: 160px;
+    width: 25%;
+    border: 0px solid red;
+    background-color: #e4a00f;
+    float: left;
+    position: relative;
+}
+.box10{
+    height: 80px;
+    width: 50%;
+    border: 0px solid red;
+    background-color: rgb(22, 21, 22);
+    position: relative;
+    float: left;
+}
+.box11{
+    height: 80px;
+    width: 25%;
+    border: 0px solid red;
+    background-color: rgb(233, 34, 233);
+    position: relative;
+    top: 80px;
+}
+.box12{
+    height: 80px;
+    width: 50%;
+    border: 0px solid red;
+    background-color: #ee0d2b;
+    position: relative;
+    float: left;
+}
